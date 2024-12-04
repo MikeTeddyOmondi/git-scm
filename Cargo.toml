@@ -1,0 +1,20 @@
+[package]
+name = "git-scm"
+version = "1.0.0-alpha"
+edition = "2021"
+
+[[bin]]
+name = "git"
+path = "src/main.rs"
+
+[[bin]]
+name = "script"
+path = "src/script.rs"
+
+[dependencies]
+clap = { version = "4.4.18", features = ["derive"] }
+anyhow = "1.0"
+colored = "2.1.0"
+globset = "0.4"
+bincode = "1.3"
+serde = { version = "1.0", features = ["derive"] }
