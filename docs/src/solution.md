@@ -9,7 +9,7 @@ Broke down the problem into small deliverable features:
 1. [x] Initializing repositories.
 2. [x] Ignoring, Staging and committing files.
 3. [x] Viewing commit histories.
-4. [x] Creating and merging brnaches.
+4. [x] Creating and merging branches.
 5. [x] Performing diffs between branches.
 6. [x] Detecting conflicting changes.
 7. [ ] Clone repositories.

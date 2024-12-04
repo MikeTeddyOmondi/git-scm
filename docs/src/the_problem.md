@@ -8,3 +8,6 @@
 - It should also be possible to clone the repository (on disk—it doesn't have to work over network). 
 - Finally, there should be a way to ignore files.
 
+### Challenge by:
+
+![pesapal](./logo.png)
